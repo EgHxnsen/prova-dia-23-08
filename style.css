@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+
+.elementos{
+    border-bottom: 2px solid white;
+    text-align: justify;
+    margin: 10px;
+    padding: 10px;
+}.elementos > p{
+    margin-top: 1vh;
+}
+
+.elementos1{
+    border-bottom: 2px solid white;
+    text-align: justify;
+    margin: 10px;
+    padding-bottom: 10px;
+}.elementos1 > p{
+    margin-top: 1vh;
+}
+
+.elementos2{
+    border-bottom: 2px solid white;
+    text-align: justify;
+    margin: 10px;
+    padding: 10px;
+}.elementos2 > p{
+    margin-top: 1vh;
+}
